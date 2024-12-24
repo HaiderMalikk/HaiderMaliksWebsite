@@ -332,6 +332,12 @@ section {
   justify-content: center;
   flex-direction: column;
 }
+.experience-details-container-single {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 32%;
+}
 
 .article-container {
   display: flex;
@@ -356,6 +362,7 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
+  margin-top: 12rem;
   position: relative;
 }
 
